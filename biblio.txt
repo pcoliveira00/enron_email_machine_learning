@@ -1,0 +1,12 @@
+[1] Mitchell, T. (1997). Machine Learning, McGraw Hill. ISBN 0-07-042807-7, p.2.
+[2] http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectKBest.html#sklearn.feature_selection.SelectKBest.get_params
+[3] http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html
+[4] http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
+[5] http://scikit-learn.org/stable/modules/generated/sklearn.grid_search.GridSearchCV.html
+[6] http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
+[7] scikit-learn.org/stable/tutorial/machine_learning_map/index.html
+[8] http://scikit-learn.org/stable/modules/cross_validation.html
+[9] http://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html
+[10] http://scikit-learn.org/stable/modules/generated/sklearn.cross_validation.StratifiedShuffleSplit.html
+[11] Grubbs 1969, p. 1 
+[12] Hodge, Victoria J.; Austin, Jim, A Survey of Outlier Detection Methodologies
